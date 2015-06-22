@@ -1,4 +1,4 @@
-## Application Template - Basic
+## Application Template - Handlebars
 
 This template intended for quickly generating test-driven assignments for The Iron Yard. But you can just use it for whatever!
 
@@ -6,6 +6,9 @@ Includes:
 
 * Mocha
 * Chai
+* Underscore
+* jQuery
+* Handlebars
 
 ## Instructions
 

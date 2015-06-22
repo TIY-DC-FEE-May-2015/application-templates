@@ -1,4 +1,4 @@
-## Application Template - Basic
+## Application Template - Angular
 
 This template intended for quickly generating test-driven assignments for The Iron Yard. But you can just use it for whatever!
 
@@ -6,6 +6,7 @@ Includes:
 
 * Mocha
 * Chai
+* Angular
 
 ## Instructions
 
