@@ -6,6 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "express": "~4.10.6"
+    "body-parser": "^1.13.1",
+    "express": "~4.10.6",
+    "multer": "^0.1.8",
+    "underscore": "^1.8.3"
   }
 }
